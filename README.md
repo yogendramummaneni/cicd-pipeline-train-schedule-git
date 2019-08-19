@@ -15,6 +15,11 @@ Then, you can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 # Sonrai-Repo
+
+<div align="center">
+  The environmental sentiment tool
+</div>
+
 # Software versions used:
 ```
 Cloud: AWS Free Tier
