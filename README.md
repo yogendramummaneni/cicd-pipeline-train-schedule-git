@@ -13,3 +13,8 @@ Then, you can run the app with:
     npm start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
+
+# Sonrai-Repo
+# How to use this repo
+- Clone the repo: git clone https://github.com/ucd-nlmsc-teamproject/Sonrai-Repo.git
+- Finish the environment configuration by following the instructions **env_setup/env_setup.txt**.
