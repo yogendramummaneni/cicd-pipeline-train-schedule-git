@@ -15,6 +15,16 @@ Then, you can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 # Sonrai-Repo
+# Software versions used:
+```
+Cloud: AWS Free Tier
+Operating System: RHEL 8
+Python: 3.7.3
+Django: 2.2.1
+MongoDB: 4.0 
+vaderSentiment: 3.2.1
+Bokeh: 1.3.0
+```
 # How to use this repo
 - Clone the repo: git clone https://github.com/ucd-nlmsc-teamproject/Sonrai-Repo.git
 - Finish the environment configuration by following the instructions **env_setup/env_setup.txt**. This includes installation of Python, various Python modules, Docker and Django configuration.
