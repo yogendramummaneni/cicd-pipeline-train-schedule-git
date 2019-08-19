@@ -27,9 +27,20 @@ Bokeh: 1.3.0
 ```
 # How to use this repo
 - Clone the repo: git clone https://github.com/ucd-nlmsc-teamproject/Sonrai-Repo.git
-- Finish the environment configuration by following the instructions **env_setup/env_setup.txt**. This includes installation of Python, various Python modules, Docker and Django configuration.
-- Start the Sonrai webapp by running 
+- Finish the environment configuration by following the instructions **env_setup/env_setup.txt**. This includes 
 ```
+Installation of Python
+Creating Virtual environemnt
+Installation of various Python modules
+MongoDB installation and Confiugration
+Django configuration
+```
+- Copyt the urls.py: ** cp front-end-ui/campaign/campaign/urls.py /opt/project/campaign/campaign/ **
+- Copyt the views.py: ** cp front-end-ui/campaign/campaign/views.py /opt/project/campaign/campaign/ **
+- Copy the html templates: ** cp front-end-ui/campaign/templates/* /opt/project/campaign/templates/ **
+- Copy the static files (CSS&Java script): ** cp front-end-ui/campaign/static/* /opt/project/campaign/static/ **
+```
+- Start the Sonrai webapp by running 
 cd /opt/project/campaign/
 python manage.py runserver 0.0.0.0:80
 ```
