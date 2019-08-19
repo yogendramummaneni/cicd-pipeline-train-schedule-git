@@ -17,7 +17,7 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 # Sonrai-Repo
 # How to use this repo
 - Clone the repo: git clone https://github.com/ucd-nlmsc-teamproject/Sonrai-Repo.git
-- Finish the environment configuration by following the instructions **env_setup/env_setup.txt**.
+- Finish the environment configuration by following the instructions **env_setup/env_setup.txt**. This includes installation of Python, various Python modules, Docker and Django configuration.
 - Start the Sonrai webapp by running 
 ```
 cd /opt/project/campaign/
