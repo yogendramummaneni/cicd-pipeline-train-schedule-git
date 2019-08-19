@@ -40,8 +40,8 @@ Django configuration
 - Copyt the views.py: **cp front-end-ui/campaign/campaign/views.py /opt/project/campaign/campaign/**
 - Copy the html templates: **cp front-end-ui/campaign/templates/\* /opt/project/campaign/templates/**
 - Copy the static files (CSS&Java script): **cp front-end-ui/campaign/static/\* /opt/project/campaign/static/**
-```
 - Start the Sonrai webapp by running 
+```
 cd /opt/project/campaign/
 python manage.py runserver 0.0.0.0:80
 ```
