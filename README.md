@@ -27,6 +27,7 @@ Bokeh: 1.3.0
 ```
 # How to use this repo
 - Clone the repo: git clone https://github.com/ucd-nlmsc-teamproject/Sonrai-Repo.git
+- Switch to the Repo: ** cd Sonrai-Repo **
 - Finish the environment configuration by following the instructions **env_setup/env_setup.txt**. This includes 
 ```
 Installation of Python
