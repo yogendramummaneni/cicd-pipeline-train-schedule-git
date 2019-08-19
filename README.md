@@ -16,8 +16,8 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 
 # Sonrai-Repo
 
-<div align="center">
-  The environmental sentiment tool
+<div align="center" >
+  <strong> The environmental sentiment tool </strong>
 </div>
 
 # Software versions used:
